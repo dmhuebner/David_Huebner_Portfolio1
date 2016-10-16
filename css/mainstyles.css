@@ -1,0 +1,40 @@
+/*======================================
+-------------MAIN STYLES----------------
+=======================================*/
+
+
+/*========================
+GENERAL
+=========================*/
+
+body { 
+	background-image: url("../images/Zebra-stripes.jpg");
+
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center top;
+
+	background-color: rgba(255, 255, 255, 0.3);
+}
+
+
+
+
+/*========================
+SPACING
+=========================*/
+
+
+
+/*========================
+COLOR
+=========================*/
+
+#navdiv {
+	opacity: 0.7;
+}
+
