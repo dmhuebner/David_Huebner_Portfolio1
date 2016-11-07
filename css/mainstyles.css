@@ -58,4 +58,12 @@ COLOR
 
 .jumbotron {
 	color: #ddd;
-	background-color: rgba(0, 0, 0, 0.8)}
+	background-color: rgba(0, 0, 0, 0.8);
+}
+
+.mastfoot {
+	min-width: 100%;
+	color: #ddd;
+	background-color: rgba(0, 0, 0, 0.8);
+}
+
