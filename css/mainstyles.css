@@ -52,7 +52,15 @@ SPACING
 }
 
 .aboutText {
-	padding-top: 30px;
+	margin-top: 30px;
+}
+
+#aboutJumbotron {
+	margin-bottom: -60px;
+}
+
+hr {
+	max-width: 12%;
 }
 
 /*========================
